@@ -11,6 +11,10 @@ tensorflow2.0
 
 # Models
 - The 4 Convolutional Neural Network Models That Can Classify Your Fashion Images [Towards Data Science from medium ](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
+## Reference models
+- Updated model repository with TF 2.0 best-practice reference models and research model implementations. These will include ResNet, MobileNet, DenseNet, Mask-RCNN, NMT, NCF, Transformer, and many other models
+- Collection of [TF Hub modules](https://tfhub.dev/s?q=tf2-preview), loadable in TensorFlow 2.0.
+- More performance optimizations.
 
 # Colab
 [欢迎使用 Colaboratory！](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=xitplqMNk_Hc)
