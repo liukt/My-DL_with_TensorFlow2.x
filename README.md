@@ -4,6 +4,7 @@ tensorflow2.0
 - CSV-dataset: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 # soga
 - [(Tensorflow)手把手CNN入门：手写数字识别](https://zhuanlan.zhihu.com/p/48595579)
+- [【深度学习系列】手写数字识别--卷积神经网络CNN原理详解(一)](https://zhuanlan.zhihu.com/p/30665319)
 
 # Comprehensive Guide
 - ***A Comprehensive Guide to Convolutional Neural Networks*** — the ELI5 way  [Towards Data Science from medium ](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
