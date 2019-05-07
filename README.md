@@ -3,6 +3,11 @@ tensorflow2.0
 
 # soga
 
+# Colab
+[Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) from medium.com
+
+[Colaboratory与Google Drive进行绑定的过程](https://www.jianshu.com/p/ce2e63d1c10c)
+
 [Colab 知乎](https://zhuanlan.zhihu.com/p/35063343)
 
 [FreeGPU colab用法详解 妈妈再也不用担心我们买不起显卡租不起服务器啦](https://blog.csdn.net/weixin_37993251/article/details/79181568)
