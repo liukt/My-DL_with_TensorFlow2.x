@@ -1,6 +1,7 @@
 # My-DL_with_TensorFlow2.x
 tensorflow2.0
-
+- Google Colaboratory for free GPU model training (Deep learning)
+- CSV-dataset: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 # soga
 
 # Colab
