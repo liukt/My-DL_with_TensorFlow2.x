@@ -3,6 +3,9 @@ tensorflow2.0
 - Google Colaboratory for free GPU model training (Deep learning)
 - CSV-dataset: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 # soga
+# Comprehensive Guide
+- ***A Comprehensive Guide to Convolutional Neural Networks*** — the ELI5 way  [Towards Data Science from medium ](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+
 # Models
 - The 4 Convolutional Neural Network Models That Can Classify Your Fashion Images [Towards Data Science from medium ](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
 
