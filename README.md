@@ -4,6 +4,8 @@ tensorflow2.0
 # soga
 
 # Colab
+[开始使用Google Colaboratory（Coding TensorFlow）](https://www.youtube.com/watch?v=inN8seMm7UI&list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL)
+
 [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) from medium.com
 
 [Google Colab使用心得 知乎](https://zhuanlan.zhihu.com/p/54389036)
